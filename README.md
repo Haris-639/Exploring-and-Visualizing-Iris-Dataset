@@ -5,7 +5,6 @@
 - **Source:** Available via the `seaborn` library (`sns.load_dataset("iris")`)
 - **Description:** The Iris dataset contains measurements of sepal and petal length and width for three different species of iris flowers (`setosa`, `versicolor`, and `virginica`).
 
----
 
 ## Methods and Visualizations Applied
 
@@ -19,8 +18,6 @@
    - **Histograms:** To inspect the distribution of each feature.
    - **Box Plots:** To detect outliers and visualize feature spread and central tendency.
 
----
-
 ## Key Results and Findings
 
 - The dataset contains **150 rows** and **5 columns** (4 numeric features + 1 target label).
@@ -29,13 +26,9 @@
 - Histograms revealed that sepal and petal dimensions have relatively distinct distributions.
 - Box plots identified some potential outliers, like in sepal width.
 
----
-
 ## Libraries Used
 
 - `pandas`
 - `seaborn`
 - `matplotlib`
-
----
 
